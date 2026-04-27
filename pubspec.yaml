@@ -1,0 +1,9 @@
+name: pari_ai
+description: Pari — Your AI Girlfriend Assistant (console)
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  google_generative_ai: ^0.4.3
